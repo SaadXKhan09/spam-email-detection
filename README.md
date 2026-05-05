@@ -16,3 +16,6 @@ This project uses Machine Learning to classify emails as Spam or Not Spam.
 ## How to Run
 1. pip install pandas scikit-learn streamlit
 2. streamlit run app.py
+   
+## Lnk to run the demo project
+https://spam-email-detection-jxyjwld3ljidivjrszxej7.streamlit.app/
